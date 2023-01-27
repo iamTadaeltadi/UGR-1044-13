@@ -52,5 +52,5 @@
 
   }
  
- //add to cart functionality
+ 
  
